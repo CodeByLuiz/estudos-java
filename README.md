@@ -551,24 +551,4 @@ try {
 | `throw` | Lança uma exceção |
 | `throws` | Declara exceções que um método pode propagar |
 
-## 12. Resumo: qual estrutura usar?
 
-| Situação | O que utilizar |
-|---|---|
-| Verificar uma condição | `if` |
-| Verificar várias condições | `else if` |
-| Escolher entre opções específicas | `switch` |
-| Repetir uma quantidade definida de vezes | `for` |
-| Repetir enquanto uma condição for verdadeira | `while` |
-| Executar pelo menos uma vez | `do while` |
-| Percorrer um array ou coleção | `for-each` |
-| Interromper uma repetição | `break` |
-| Pular uma repetição | `continue` |
-| Criar uma operação reutilizável | Método |
-| Armazenar vários valores | Array |
-| Criar uma representação de algo | Classe |
-| Tratar erros | `try` e `catch` |
-
----
-
-**Observação:** os exemplos são modelos de estrutura. Adapte os nomes das variáveis, condições e valores conforme o problema que estiver resolvendo.
